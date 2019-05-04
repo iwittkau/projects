@@ -1,0 +1,7 @@
+workspaces:
+- path: /Users/name/projects/project
+  name: Name of the Project
+  active: true
+- path: /Users/name/projects/project-inactive
+  name: Name of the Project
+  active: false
